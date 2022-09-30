@@ -1,4 +1,16 @@
 .tasklist {
-    width: 30rem;
-    border: 3px solid black;
+    width: 20%;
+    border: 2px solid black;
+    min-height: 50rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tasklist__title {
+    width: 100%;
+    margin: 2rem;
+    background-color: cyan;
+    text-align: center;
+    border-bottom: 2px solid black;
 }
