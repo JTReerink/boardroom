@@ -12,3 +12,11 @@ body {
     font-family: sans-serif;
     font-size: 2rem;
 }
+
+#root {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5rem;
+}
