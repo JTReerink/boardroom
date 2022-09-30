@@ -1,0 +1,25 @@
+.choices {
+    width: 70%;
+    border: 2px solid black;
+}
+
+.choices__title{
+    width: 100%;
+    text-align: center;
+    height: 20rem;
+}
+
+.choices__holder {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.square {
+    height: 10rem;
+    width: 10rem;
+    background-color: #555;
+    border: 2px solid black;
+  }
