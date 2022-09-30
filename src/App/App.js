@@ -1,5 +1,5 @@
 import Header from "../Components/Header/Header";
-import List from "../Components/List/List";
+import List from "../Components/Takslist/Tasklist";
 import "./App.css";
 
 const App = () => {
